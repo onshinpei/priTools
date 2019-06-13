@@ -1,6 +1,6 @@
 {
   "name": "pritools",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "some tool function",
   "main": "index.js",
   "scripts": {
